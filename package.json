@@ -1,0 +1,23 @@
+{
+    "name": "27.4.Reducer",
+    "version": "1.0.0",
+    "description": "",
+    "main": "script.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MichalAW/27.4.Reducer.git"
+    },
+    "keywords": [],
+    "author": "MichalAW michal.wanta@gmail.com",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/MichalAW/27.4.Reducer/issues"
+    },
+    "homepage": "https://github.com/MichalAW/27.4.Reducer#readme",
+    "devDependencies": {},
+    "dependencies": {
+        "redux": "^4.0.1",
+        "uuid": "^3.3.2"
+    }
+}
